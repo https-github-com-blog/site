@@ -8,7 +8,11 @@
 </head>
 <body>
     <header>
-    <h1> lmgslknş </h1>
-    <h2>mereejfkjdkf</h2>
+    
+    <h6>merhaba</h6>
+    <h3>dfsdfds</h3>
+    <h6>hi</h6>
+    <h2>Title</h2>
+
     </header>
     <main>
