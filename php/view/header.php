@@ -4,15 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Blog</title>
+    <title>My School</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <header>
+    <img src="assets/img/loginBG.jpg" alt="Login BG">
+<header>
     
-    <h6>merhaba</h6>
-    <h3>dfsdfds</h3>
-    <h6>hi</h6>
-    <h2>Title</h2>
-
-    </header>
-    <main>
+</header>
+<main>
